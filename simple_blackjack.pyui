@@ -1,0 +1,320 @@
+[
+  {
+    "selected" : false,
+    "frame" : "{{0, 0}, {540, 540}}",
+    "class" : "View",
+    "nodes" : [
+      {
+        "selected" : false,
+        "frame" : "{{202, 6}, {150, 32}}",
+        "class" : "Label",
+        "nodes" : [
+
+        ],
+        "attributes" : {
+          "font_name" : "AlNile-Bold",
+          "frame" : "{{195, 254}, {150, 32}}",
+          "uuid" : "94E16518-2BD1-4168-8D23-97B36D01107C",
+          "class" : "Label",
+          "alignment" : "center",
+          "text" : "Com",
+          "name" : "com_label",
+          "font_size" : 18
+        }
+      },
+      {
+        "selected" : false,
+        "frame" : "{{202, 492}, {150, 32}}",
+        "class" : "Label",
+        "nodes" : [
+
+        ],
+        "attributes" : {
+          "font_name" : "AlNile-Bold",
+          "frame" : "{{195, 254}, {150, 32}}",
+          "uuid" : "7D64659A-FCC8-4C94-915E-A38750F063EB",
+          "class" : "Label",
+          "alignment" : "center",
+          "text" : "YOU",
+          "name" : "you_label",
+          "font_size" : 18
+        }
+      },
+      {
+        "selected" : false,
+        "frame" : "{{96, 113}, {150, 32}}",
+        "class" : "Label",
+        "nodes" : [
+
+        ],
+        "attributes" : {
+          "font_name" : "<System>",
+          "frame" : "{{195, 254}, {150, 32}}",
+          "uuid" : "7F8A9B0C-20A6-4A67-B032-1F6D094DD04C",
+          "class" : "Label",
+          "alignment" : "center",
+          "text" : "",
+          "name" : "com_first_card_label",
+          "font_size" : 18
+        }
+      },
+      {
+        "selected" : false,
+        "frame" : "{{308, 113}, {150, 32}}",
+        "class" : "Label",
+        "nodes" : [
+
+        ],
+        "attributes" : {
+          "font_name" : "<System>",
+          "frame" : "{{195, 254}, {150, 32}}",
+          "uuid" : "A172D6F6-7F21-493D-934E-1414A40A8EFB",
+          "class" : "Label",
+          "alignment" : "center",
+          "text" : "",
+          "name" : "com_second_card_label",
+          "font_size" : 18
+        }
+      },
+      {
+        "selected" : false,
+        "frame" : "{{47, 427}, {103, 32}}",
+        "class" : "Label",
+        "nodes" : [
+
+        ],
+        "attributes" : {
+          "font_name" : "<System>",
+          "frame" : "{{195, 254}, {150, 32}}",
+          "uuid" : "522A5A87-1654-4043-ABC8-8DA0F945EECC",
+          "class" : "Label",
+          "alignment" : "center",
+          "text" : "",
+          "name" : "first_card_label",
+          "font_size" : 18
+        }
+      },
+      {
+        "selected" : false,
+        "frame" : "{{202, 427}, {150, 32}}",
+        "class" : "Label",
+        "nodes" : [
+
+        ],
+        "attributes" : {
+          "font_name" : "<System>",
+          "frame" : "{{195, 254}, {150, 32}}",
+          "uuid" : "BB7FCBB9-63F8-46AF-A078-9F615B3AE75B",
+          "class" : "Label",
+          "alignment" : "center",
+          "text" : "",
+          "name" : "second_card_label",
+          "font_size" : 18
+        }
+      },
+      {
+        "selected" : false,
+        "frame" : "{{395, 427}, {103, 32}}",
+        "class" : "Label",
+        "nodes" : [
+
+        ],
+        "attributes" : {
+          "font_name" : "<System>",
+          "frame" : "{{195, 254}, {150, 32}}",
+          "uuid" : "D01F6A94-45D9-4967-85C1-C004096DB1BE",
+          "class" : "Label",
+          "alignment" : "center",
+          "text" : "",
+          "name" : "third_card_label",
+          "font_size" : 18
+        }
+      },
+      {
+        "selected" : false,
+        "frame" : "{{166, 302}, {80, 32}}",
+        "class" : "Button",
+        "nodes" : [
+
+        ],
+        "attributes" : {
+          "action" : "hit_button_touch_up_inside",
+          "frame" : "{{230, 254}, {80, 32}}",
+          "title" : "HIT!",
+          "uuid" : "F0965A57-9FE6-46CF-A43A-1AA99BE007A9",
+          "class" : "Button",
+          "name" : "hit_button",
+          "font_size" : 15
+        }
+      },
+      {
+        "selected" : false,
+        "frame" : "{{308, 302}, {80, 32}}",
+        "class" : "Button",
+        "nodes" : [
+
+        ],
+        "attributes" : {
+          "action" : "stand_button_touch_up_inside",
+          "frame" : "{{230, 254}, {80, 32}}",
+          "title" : "STAND!",
+          "uuid" : "38D8BA2B-3470-4AB6-98FB-2F91C7BDBC91",
+          "class" : "Button",
+          "name" : "stand_button",
+          "font_size" : 15
+        }
+      },
+      {
+        "selected" : false,
+        "frame" : "{{96, 73}, {150, 32}}",
+        "class" : "Label",
+        "nodes" : [
+
+        ],
+        "attributes" : {
+          "font_name" : "<System>",
+          "frame" : "{{195, 254}, {150, 32}}",
+          "uuid" : "49C503E5-BD12-48B2-A43E-A46F69B6CBEE",
+          "class" : "Label",
+          "alignment" : "center",
+          "text" : "Card One",
+          "name" : "com_card_1_label",
+          "font_size" : 18
+        }
+      },
+      {
+        "selected" : false,
+        "frame" : "{{308, 73}, {150, 32}}",
+        "class" : "Label",
+        "nodes" : [
+
+        ],
+        "attributes" : {
+          "font_name" : "<System>",
+          "frame" : "{{195, 254}, {150, 32}}",
+          "uuid" : "FFDBC9B4-2332-470E-8E30-F1645315DE16",
+          "class" : "Label",
+          "alignment" : "center",
+          "text" : "Card Two",
+          "name" : "com_card_2_label",
+          "font_size" : 18
+        }
+      },
+      {
+        "selected" : false,
+        "frame" : "{{47, 387}, {103, 32}}",
+        "class" : "Label",
+        "nodes" : [
+
+        ],
+        "attributes" : {
+          "font_name" : "<System>",
+          "frame" : "{{195, 254}, {150, 32}}",
+          "uuid" : "EBD84C10-C915-4949-8989-BAA84B63DF5D",
+          "class" : "Label",
+          "alignment" : "center",
+          "text" : "Card One",
+          "name" : "user_card_1_label",
+          "font_size" : 18
+        }
+      },
+      {
+        "selected" : false,
+        "frame" : "{{202, 387}, {150, 32}}",
+        "class" : "Label",
+        "nodes" : [
+
+        ],
+        "attributes" : {
+          "font_name" : "<System>",
+          "frame" : "{{195, 254}, {150, 32}}",
+          "uuid" : "165B6ABB-00CA-4872-A95F-6B31106EF6DA",
+          "class" : "Label",
+          "alignment" : "center",
+          "text" : "Card Two",
+          "name" : "user_card_2_label",
+          "font_size" : 18
+        }
+      },
+      {
+        "selected" : false,
+        "frame" : "{{395, 387}, {103, 32}}",
+        "class" : "Label",
+        "nodes" : [
+
+        ],
+        "attributes" : {
+          "font_name" : "<System>",
+          "frame" : "{{195, 254}, {150, 32}}",
+          "uuid" : "1CA5307A-BB0C-4617-A072-B5D3984E3D57",
+          "class" : "Label",
+          "alignment" : "left",
+          "text" : "",
+          "name" : "user_card_3_label",
+          "font_size" : 18
+        }
+      },
+      {
+        "selected" : false,
+        "frame" : "{{202, 347}, {150, 32}}",
+        "class" : "Label",
+        "nodes" : [
+
+        ],
+        "attributes" : {
+          "font_name" : "<System>",
+          "frame" : "{{195, 254}, {150, 32}}",
+          "uuid" : "CC5DB173-E163-4D1C-BC62-2473905A23B4",
+          "class" : "Label",
+          "alignment" : "center",
+          "text" : "",
+          "name" : "user_sum_label",
+          "font_size" : 18
+        }
+      },
+      {
+        "selected" : false,
+        "frame" : "{{192, 153}, {150, 32}}",
+        "class" : "Label",
+        "nodes" : [
+
+        ],
+        "attributes" : {
+          "font_name" : "<System>",
+          "frame" : "{{195, 254}, {150, 32}}",
+          "uuid" : "072F8A9A-0498-4C2A-B393-78DC28F1DDAC",
+          "class" : "Label",
+          "alignment" : "center",
+          "text" : "",
+          "name" : "com_sum_label",
+          "font_size" : 18
+        }
+      },
+      {
+        "selected" : true,
+        "frame" : "{{202, 224}, {150, 32}}",
+        "class" : "Label",
+        "nodes" : [
+
+        ],
+        "attributes" : {
+          "font_name" : "<System>",
+          "frame" : "{{195, 254}, {150, 32}}",
+          "uuid" : "4F6390F2-C197-44AA-8DC0-5EBC29A5E731",
+          "class" : "Label",
+          "alignment" : "center",
+          "text" : "",
+          "name" : "win_lose_label",
+          "font_size" : 18
+        }
+      }
+    ],
+    "attributes" : {
+      "enabled" : true,
+      "background_color" : "RGBA(1.000000,1.000000,1.000000,1.000000)",
+      "tint_color" : "RGBA(0.000000,0.478000,1.000000,1.000000)",
+      "border_color" : "RGBA(0.000000,0.000000,0.000000,1.000000)",
+      "flex" : ""
+    }
+  }
+]
